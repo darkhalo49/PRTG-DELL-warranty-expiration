@@ -1,5 +1,7 @@
 # PRTG custom sensor for monitoring remaining days of Dell device warranty
 
+More details may be found to my website https://redhalo.eu
+
 ## Download instruction
 If you have git installed on your computer, you just need to run the following command:
 ```
