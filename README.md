@@ -75,8 +75,12 @@ For 64-bit systems
 
 * Create a new sensor
 
-Create a new EXE/Script Advanced sensor on your dell device, give a name and select Dell_Expiration_Support.ps1 in EXE/Script field
-
+Create a new EXE/Script Advanced sensor on your dell device.
+Give a name, select Dell_Expiration_Support.ps1 in EXE/Script field and add the following parameter into the Parameters field:
+```
+-tag XXXXXXX
+```
+Where XXXXXXX is your DELL service tag
 
 
 ![alt text](https://github.com/darkhalo49/PRTG-DELL-warranty-expiration/blob/main/Images/Remaining_Support_Days_PRTG_DELL.jpg?raw=true)
