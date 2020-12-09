@@ -85,4 +85,6 @@ Give a name, select Dell_Expiration_Support.ps1 in EXE/Script field and add the 
 Where XXXXXXX is your DELL service tag
 
 
+Then it shoud looks like here:
+
 ![alt text](https://github.com/darkhalo49/PRTG-DELL-warranty-expiration/blob/main/Images/Remaining_Support_Days_PRTG_DELL.jpg?raw=true)
